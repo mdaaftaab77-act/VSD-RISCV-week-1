@@ -1,4 +1,4 @@
-# Task 4: Labs using Yosys & Sky130 PDK
+# Task 4: Task4_Yosys_Sky130
 
 In this final subdivision of Day 1, I performed hands-on labs using Yosys along with the Sky130 PDK to synthesize and realize a simple MUX design. The lab was divided into three parts.
 
@@ -58,7 +58,15 @@ show good_mux
 ```bash
 show -format png good_mux_netlist.png good_mux.v
 ```
-![Visualization of Netlist](tk4.png)
+
+# Task 4: Labs using Yosys & Sky130 PDK
+
+Here is the synthesized netlist visualization:
+
+![good_mux Netlist](images/tk4.png)
+
+Synthesis steps and summary are below...
+
 
 
 ### Step 6: Write the Gate-Level Netlist
