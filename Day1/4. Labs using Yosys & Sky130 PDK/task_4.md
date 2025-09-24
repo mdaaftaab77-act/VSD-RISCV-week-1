@@ -58,6 +58,8 @@ show good_mux
 ```bash
 show -format png good_mux_netlist.png good_mux.v
 ```
+![Description of image](tk4.png)
+
 
 ### Step 6: Write the Gate-Level Netlist
 ```bash
