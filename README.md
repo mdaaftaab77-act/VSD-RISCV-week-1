@@ -85,15 +85,7 @@ stat
 
 ---
 
-### 4. Netlist Visualization
-
-Here is the synthesized netlist for the MUX:
-
-![good\_mux Netlist](Task4_Yosys_Sky130/images/tk4.png)
-
----
-
-### 5. Summary
+### 4. Summary
 
 Day 1 emphasized **hands-on RTL design and synthesis**.
 The workflow demonstrated **writing Verilog, synthesizing with Yosys, mapping to Sky130 cells, visualizing netlists, and generating reports**, providing a complete RTL-to-gate-level design experience.
